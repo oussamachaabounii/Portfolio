@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
             Get In Touch
           </a>
           <a 
-            href="/Oussama_Chaabouni.pdf"
+            href="/Portfolio/Oussama_Chaabouni.pdf"
             download="Oussama_Chaabouni_CV.pdf"
             style={{
               display: 'inline-flex',
