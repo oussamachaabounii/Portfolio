@@ -48,15 +48,6 @@ const Experience: React.FC = () => {
         'Built a dashboard IDE plugin to generate JSON configurations for planning solutions',
         'Worked with Oracle RPAS, React.js, Node.js, XML, and JSON'
       ]
-    },
-    {
-      title: 'Software Engineer Intern',
-      company: 'Freelance',
-      location: 'Tunis, Tunisia',
-      period: 'Jul 2019 – Aug 2019',
-      highlights: [
-        'Worked on small freelance projects involving full-stack development'
-      ]
     }
   ];
 
