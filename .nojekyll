@@ -1,0 +1,2 @@
+# tells Jekyll (the default GitHub Pages renderer) to serve files as-is,
+# including files/folders starting with underscores.
